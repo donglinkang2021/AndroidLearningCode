@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Show Other Activity</string>
+    <string name="input_info">Enter some info</string>
+    <string name="return_info">Return info</string>
+</resources>
